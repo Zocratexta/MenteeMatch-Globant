@@ -4,7 +4,7 @@
 
 ### ✨ Demo
 
-<img alt="demo" width="720" heigth="1600" src="https://raw.githubusercontent.com/Zocratexta/MenteeMatch-Globant/main/public/demo.gif" />
+<img alt="demo" width="720" height="1600" src="https://raw.githubusercontent.com/Zocratexta/MenteeMatch-Globant/main/public/demo.gif" />
 
 ## Install
 
