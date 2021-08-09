@@ -1,6 +1,6 @@
 <h1 align="center"> Mentee Match </h1>
 
-> App movile
+> App mobile (android), find your ideal mentor within the company.
 
 ### ✨ Demo
 
